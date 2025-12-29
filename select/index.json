@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "VALENTI",
+  "base_artist": "BoA",
+  "createdAt": "2025-12-29T12:41:23.613504Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Subsequent Rating Given to the Life and Times of Jack Valenti",
+      "artist": "Tub Ring",
+      "has_synced": true,
+      "path": "select/01_The_Subsequent_Rating_Given_to_the_Life_and_Times_of_Jack_Valenti_Tub_Ring.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VALENTI",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/02_VALENTI_BoA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Valenti",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/03_Valenti_BoA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "VALENTI - BEST&USA Version",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/04_VALENTI_-_BEST&USA_Version_BoA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VALENTI",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/05_VALENTI_BoA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Valenti",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/06_Valenti_BoA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Two Sides Of Monsieur Valenti",
+      "artist": "Spoon",
+      "has_synced": true,
+      "path": "select/07_The_Two_Sides_Of_Monsieur_Valenti_Spoon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "VALENTI (BoA LIVE TOUR 2019 #mood @ Omiya Sonic City (2019.09.30))",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/08_VALENTI_(BoA_LIVE_TOUR_2019__mood_@_Omiya_Sonic_City_(2019.09.30))_BoA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "VALENTI (Instrumental)",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/09_VALENTI_(Instrumental)_BoA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A verità (feat. Dino Valenti)",
+      "artist": "Gianni Vezzosi",
+      "has_synced": true,
+      "path": "select/10_A_verità_(feat._Dino_Valenti)_Gianni_Vezzosi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Valenti",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/11_Valenti_BoA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "VALENTi",
+      "artist": "Purple Beck",
+      "has_synced": true,
+      "path": "select/12_VALENTi_Purple_Beck.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Valenti (Japan Ver)",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/13_Valenti_(Japan_Ver)_BoA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "VALENTI ～BEST&USA Version～",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/14_VALENTI_~BEST&USA_Version~_BoA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "gun will go feat sunny valenti\u0000﻿gun will go feat sunny valentine",
+      "artist": "Wu Tang Clan",
+      "has_synced": true,
+      "path": "select/15_gun_will_go_feat_sunny_valenti\u0000﻿gun_will_go_feat_sunny_valentine_Wu_Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "VALENTI (Japanese Ver.) (BoA LIVE TOUR 2019 #mood)",
+      "artist": "보아 (BoA)",
+      "has_synced": false,
+      "path": "select/16_VALENTI_(Japanese_Ver.)_(BoA_LIVE_TOUR_2019__mood)_보아_(BoA).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "VALENTI -BEST & USA Version-",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/17_VALENTI_-BEST_&_USA_Version-_BoA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Valenti",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/pl_01_Valenti_BoA.txt"
+    }
+  ]
+}
